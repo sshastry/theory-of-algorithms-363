@@ -1,11 +1,12 @@
 
 ## Theory of Algorithms
 
-This repository contains the exams (with solutions) for an upper level undergraduate course in algorithms which I taught in Spring 2012. The course covered chapters 1-6 and 8 of [Kleinberg and Tardos](http://www.amazon.com/Algorithm-Design-Jon-Kleinberg/dp/0321295358); the book is fantastic and is highly recommended.
-
-These links will render the pdf files in this repository in your browser. See [here](http://webapps.stackexchange.com/questions/48061/can-i-trick-github-into-displaying-the-pdf-in-the-browser-instead-of-downloading) for the explanation.
 * [final-exam+solutions.pdf](http://sshastry.github.io/theory-of-algorithms-363/final-exam+solutions.pdf)
 * [midterm-exam+solutions.pdf](http://sshastry.github.io/theory-of-algorithms-363/midterm-exam+solutions.pdf)
+
+The above links will render the pdf files in this repository in your browser. Explanation [here](http://webapps.stackexchange.com/questions/48061/can-i-trick-github-into-displaying-the-pdf-in-the-browser-instead-of-downloading).
+
+This repository contains the exams (with solutions) for an upper level undergraduate course in algorithms which I taught in Spring 2012. The course covered chapters 1-6 and 8 of [Kleinberg and Tardos](http://www.amazon.com/Algorithm-Design-Jon-Kleinberg/dp/0321295358); the book is fantastic and is highly recommended.
 
 The topics covered:
 
